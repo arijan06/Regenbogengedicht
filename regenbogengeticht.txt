@@ -4,3 +4,4 @@ Gelb
 Grün
 Blau
 Violett
+Indigo
