@@ -1,2 +1,2 @@
 hello world from lokale
-hello world from nga
+hello world from remote
